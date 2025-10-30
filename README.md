@@ -2,11 +2,11 @@
 <html>
 <h5> Drini Bejtaga / Walter De Nicola / Roberta Valli</h5>
 <header> 
-  <h1> [Project title] Trillullì
+  <h1> [Project title]
 </h1>
 </header>
   <article>
-    <h1> Data Collection </h1>
+    <h1>Data Collection</h1>
    <ul> 
      <li> Where did you get your data from? [source/s link]
 </li>
