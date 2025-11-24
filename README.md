@@ -6,6 +6,12 @@
 ### Video Demo
 ![Demo](/docs/08_video.mov)
 
+
+<video width="600" controls>
+  <source src="/docs/08_video.mov">
+  Your browser does not support the video tag.
+</video>
+
 ### Abstract (300 charachters)
 This project investigates how people claim to communicate with alien species by gathering posts, reports, and shared experiences from online communities and public archives. The material was organized, coded, and grouped to uncover repeating themes and moments of collective attention. To make the findings clearer, the grouped data was transformed into timelines and location-based views that show when and where the conversations intensified. The highlights point to shared narratives appearing across different communities, synchronized waves of reported signals, and recurring ideas about how contact might take place.
 
