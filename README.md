@@ -19,7 +19,7 @@ This project investigates how people claim to communicate with alien species by 
 
 ### Protocol Diagram
 
-![Protocol](/Users/rob/Documents/_maind_repo/DDD-2025-Group3/docs/06_flowchart.jpg)
+![Protocol](/docs/06_flowchart.jpg)
 
 ### What topic does the project address?
 ALIEN.AI explores how cinematic creatures and AI-generated beings converge, diverge, and evolve within visual culture. Through an interface that combines thematic filters, immersive navigation, and morphological decomposition, the project highlights recurring structures and unexpected variations in forms and features. By placing film imagery and synthetic outputs in direct dialogue, ALIEN.AI reveals how different modes of creation shape and reinterpret extraterrestrial representations.
