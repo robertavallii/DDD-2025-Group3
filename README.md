@@ -3,14 +3,6 @@
 
 # Alien.Ai
 
-### Visualisation
-
-![Overview](/docs/01_alien_ai_overview.jpg)
-
-![Decomposition - Body](/docs/03_alien_ai_decomosition_body.jpg)
-
-![Decomposition - Grid](/docs/02_alien_ai_decomosition_grid.jpg)
-
 ### Video Demo
 ![Demo](/docs/08_video.mov)
 
@@ -87,12 +79,14 @@ Both film and AI images were processed into anatomical fragments:
 Croppings were obtained through a semi-automatic script and then refined manually.  
 This secondary dataset enables the morphological decomposition used in the interface.
 
-### Visual Examples
-Insert screenshots here, for example:
-- film alien gallery  
-- AI-generated alien gallery  
-- cropped anatomical parts  
-- excerpt of the cleaned CSV
+### Visualisation
+
+![Overview](/docs/01_alien_ai_overview.jpg)
+
+![Decomposition - Body](/docs/03_alien_ai_decomosition_body.jpg)
+
+![Decomposition - Grid](/docs/02_alien_ai_decomosition_grid.jpg)
+
 
 #### Link to the dataset
 [Dataset](https://docs.google.com/spreadsheets/d/14JPReuqHkJ0FZBQmdKYLOpbdxL6lTCA5O_opcV6fpcE/edit?gid=499035760#gid=499035760)
