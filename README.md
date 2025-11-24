@@ -70,7 +70,7 @@ A data-cleaning phase unified categories (e.g., colors, genres), corrected incon
 - ai_prompt  
 - file_name 
 
-!Dataset](/docs/07_dataset.png)
+!Dataset](/docs/07_dataset.jpg)
  
 
 ### Morphological Parts Dataset
