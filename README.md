@@ -8,8 +8,7 @@
 
 
 <video width="600" controls>
-  <source src="/docs/08_video.mp4">
-  Your browser does not support the video tag.
+  <source src="docs/08_video.mp4" type="video/mp4">
 </video>
 
 ### Abstract (300 charachters)
