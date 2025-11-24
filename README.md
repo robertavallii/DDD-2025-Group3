@@ -21,7 +21,8 @@
     <li> What columns are more relevant for your project?</li>
     <li> Have you used any AI-based tool to understand or manipulate your data? if yes, what and how? </li>
     <h1> Protocollo </h1>
-		graph TB
+
+graph TB
     Topic["Topic: Alien Imagery Film vs AI"]
     
     RQ(["Research Question:<br/>How does visual comparison between<br/>film aliens and AI-generated aliens<br/>reveal analogies, differences and<br/>recurring patterns?"])
@@ -117,6 +118,9 @@
     VIZ --> INSIGHT
     
     classDef failed fill:#d3d3d3,stroke:#333,stroke-dasharray: 5 5
-    class A2,A6 failed
+    class A2,A6 failed		
+
+
+
   </article>
 </html>
