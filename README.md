@@ -55,7 +55,7 @@ A data-cleaning phase unified categories (e.g., colors, genres), corrected incon
 **Fields included in the CSV:**
 - film_title  
 - film_year  
-- cinematic_genre  
+- cinematic_genre 
 - general_shape  
 - number_of_eyes  
 - head_shape  
@@ -76,7 +76,6 @@ A data-cleaning phase unified categories (e.g., colors, genres), corrected incon
 ### Morphological Parts Dataset
 Both film and AI images were processed into anatomical fragments:
 - head  
-- eyes  
 - chest  
 - arms  
 - hands  
