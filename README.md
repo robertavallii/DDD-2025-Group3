@@ -11,8 +11,8 @@
 
 ![Decomposition - Grid](/docs/02_alien_ai_decomosition_grid.jpg)
 
-#### Link to the prototype or website (if available)
-https://www.jasondavies.com/wordtree/?source=obama.inauguration.2013.txt&prefix=devastating 
+### Video Demo
+![Demo](/docs/08_video.mov)
 
 ### Abstract (300 charachters)
 This project investigates how people claim to communicate with alien species by gathering posts, reports, and shared experiences from online communities and public archives. The material was organized, coded, and grouped to uncover repeating themes and moments of collective attention. To make the findings clearer, the grouped data was transformed into timelines and location-based views that show when and where the conversations intensified. The highlights point to shared narratives appearing across different communities, synchronized waves of reported signals, and recurring ideas about how contact might take place.
