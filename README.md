@@ -102,9 +102,16 @@ This secondary dataset enables the morphological decomposition used in the inter
 AI generations show a strong tendency toward anthropomorphic shapes: proportional bodies, human-like hands, and recognizable facial traits.
 Even when the prompt does not request a human figure, the model often reshapes the alien into an “almost human” morphology, contrasting with the greater diversity seen in cinematic creatures.
 
+![example img](/docs/10_example.jpg)
+
+
 - Addition of Elements Not Present in the Prompt:  
 Generative models frequently enrich the output with details that were not requested: extra limbs, more complex textures, background elements, and especially full-body representations.
 Even when the prompt describes only facial features, the AI tends to complete the entire body, revealing a bias toward generating “complete” characters.
+
+![example img](/docs/09_example.jpg)
+
+
 
 - Poor Alignment With the Requested Tone:  
 Even when prompts specify a clear emotional tone — humorous, light, neutral, or otherwise — the AI struggles to follow it.
