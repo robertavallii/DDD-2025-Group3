@@ -24,8 +24,6 @@ This project investigates how people claim to communicate with alien species by 
 ### What topic does the project address?
 ALIEN.AI explores how cinematic creatures and AI-generated beings converge, diverge, and evolve within visual culture. Through an interface that combines thematic filters, immersive navigation, and morphological decomposition, the project highlights recurring structures and unexpected variations in forms and features. By placing film imagery and synthetic outputs in direct dialogue, ALIEN.AI reveals how different modes of creation shape and reinterpret extraterrestrial representations.
 
-### What data have you considered?
-[Delete this for final delivery] *Specify the format and sources. Use also images/screenshots to describe your dataset.*
 
 ## What Data Have You Considered?
 
@@ -33,8 +31,7 @@ This project is based on an original dataset developed to compare alien represen
 
 ### Images From Films
 The dataset contains 100 alien images manually sourced from a variety of films.  
-Images were selected by identifying clear frames or promotional stills where the creature is fully visible.  
-Earlier attempts to automate the collection (such as using the SERP API) were tested but discarded, resulting in a fully hand-curated dataset.
+Images were selected by identifying clear frames or promotional stills where the creature is fully visible. Earlier attempts to automate the collection (such as using the SERP API) were tested but discarded, resulting in a fully hand-curated dataset.
 
 ### AI-Generated Alien Images
 For each film alien, a corresponding AI-generated version was produced using different generative models, including Google Imagen 4.0, OpenAI tools, and Google Gemini.  
@@ -52,8 +49,9 @@ Each row contains:
 - the original film image  
 - a structured visual analysis  
 - the AI prompt derived from that analysis  
-- the link to the corresponding AI-generated image  
+- the link to the corresponding AI-generated image
 
+  
 A data-cleaning phase unified categories (e.g., colors, genres), corrected inconsistencies, and standardized all terminology.
 
 **Fields included in the CSV:**
@@ -72,7 +70,10 @@ A data-cleaning phase unified categories (e.g., colors, genres), corrected incon
 - dominant_tone  
 - secondary_details  
 - ai_prompt  
-- file_name  
+- file_name 
+
+!Dataset](/docs/07_dataset.png)
+ 
 
 ### Morphological Parts Dataset
 Both film and AI images were processed into anatomical fragments:
