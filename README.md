@@ -2,6 +2,7 @@
 <h5> Drini Bejtaga - Walter De Nicola - Roberta Valli</h5>
 
 # Alien.Ai
+![Overview](/docs/01_alien_ai_overview.jpg)
 
 ### Video Demo
 ![Demo](/docs/08_video.mov)
