@@ -14,7 +14,7 @@
 </video>
 
 ### Abstract (300 charachters)
-This project investigates how people claim to communicate with alien species by gathering posts, reports, and shared experiences from online communities and public archives. The material was organized, coded, and grouped to uncover repeating themes and moments of collective attention. To make the findings clearer, the grouped data was transformed into timelines and location-based views that show when and where the conversations intensified. The highlights point to shared narratives appearing across different communities, synchronized waves of reported signals, and recurring ideas about how contact might take place.
+ALIEN.AI is a data-driven design project that investigates how generative AI systems reinterpret cinematic representations of alien life. The project compares alien images sourced from films with AI-generated counterparts created through structured visual prompts. Through an interactive visual interface, users can explore, filter, and directly compare both datasets under the same conditions. The analysis reveals recurring patterns such as anthropomorphic bias, automatic completion of forms, and normalization of tone, highlighting how AI systems reshape speculative visual culture by reinforcing familiar conventions.
 
 ### Protocol Diagram
 
