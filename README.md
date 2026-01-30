@@ -13,8 +13,8 @@
   <source src="docs/08_video.mp4" type="video/mp4">
 </video>
 
-### Abstract (300 charachters)
-ALIEN.AI is a data-driven design project that investigates how generative AI systems reinterpret cinematic representations of alien life. The project compares alien images sourced from films with AI-generated counterparts created through structured visual prompts. Through an interactive visual interface, users can explore, filter, and directly compare both datasets under the same conditions. The analysis reveals recurring patterns such as anthropomorphic bias, automatic completion of forms, and normalization of tone, highlighting how AI systems reshape speculative visual culture by reinforcing familiar conventions.
+### Abstract
+ALIEN.AI is a data-driven design project that investigates how generative AI systems reinterpret cinematic representations of alien life. The project compares alien images sourced from films with AI-generated counterparts created through structured visual prompts. Through an interactive visual interface, users can explore, filter, and directly compare both datasets under the same conditions.
 
 ### Protocol Diagram
 
